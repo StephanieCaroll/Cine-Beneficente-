@@ -23,13 +23,13 @@ Este projeto foi desenvolvido para fornecer uma plataforma simples e acessível 
 - **JavaScript (ES6+)**
 
 ## 🤝 Contribuições
-Sinta-se à vontade para contribuir com este projeto!  
-💡 Sugira melhorias.  
-🐛 Relate bugs.  
-📚 Compartilhe recursos adicionais.  
+Sinta-se à vontade para contribuir com este projeto!  <br>
+💡 Sugira melhorias.  <br>
+🐛 Relate bugs.  <br>
+📚 Compartilhe recursos adicionais. <br>  
 
 ## 📬 Contato
-Autor: Stephanie Caroline e Evellyn Orico
-E-mail: stephaniecarolinedev@gmail.com
-LinkedIn: linkedin.com/in/stephanie-caroline-97973430b
+Autor: Stephanie Caroline e Evellyn Orico <br>
+E-mail: stephaniecarolinedev@gmail.com <br>
+LinkedIn: linkedin.com/in/stephanie-caroline-97973430b <br>
 GitHub: https://github.com/StephanieCaroll
